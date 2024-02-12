@@ -13,7 +13,7 @@ Welcome to the MCQ Generator web app! This application leverages OpenAI's langua
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your_username/mcq-generator-web-app.git
+   git clone https://github.com/mohiteyashprogrammer/MCQ_generator
    
 pip install -r requirements.txt
 
